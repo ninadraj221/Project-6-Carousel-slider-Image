@@ -9,3 +9,24 @@ header {
   height: 6rem;
   background-color: coral;
 }
+
+.swiper-slide {
+  width: 100%;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: auto;
+}
+
+.swiper .swiper-button-next,
+.swiper .swiper-button-prev {
+  /* background-color: black; */
+  color: whitesmoke;
+}
+
+.swiper .swiper-button-next:hover,
+.swiper .swiper-button-prev:hover {
+  /* background-color: black; */
+  color: black;
+}
